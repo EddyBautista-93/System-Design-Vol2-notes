@@ -1,0 +1,14 @@
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\bin\Debug\net7.0\proximity-service.exe
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\bin\Debug\net7.0\proximity-service.deps.json
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\bin\Debug\net7.0\proximity-service.runtimeconfig.json
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\bin\Debug\net7.0\proximity-service.dll
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\bin\Debug\net7.0\proximity-service.pdb
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\proximity-service.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\proximity-service.AssemblyInfoInputs.cache
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\proximity-service.AssemblyInfo.cs
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\proximity-service.csproj.CoreCompileInputs.cache
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\proximity-service.dll
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\refint\proximity-service.dll
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\proximity-service.pdb
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\proximity-service.genruntimeconfig.cache
+D:\BuildInPublic\build-your-knowledge\system-design\system-design-interview-vol2\1-proximity-service\obj\Debug\net7.0\ref\proximity-service.dll
